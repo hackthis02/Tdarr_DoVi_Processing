@@ -1,5 +1,3 @@
 .DS_Store
 
 # Windows renames : to _ in folder names; ignore the renamed versions
-Docker/dovi-tdarr-node_2.40.01/
-Docker/dovi-tdarr-node_latest/
